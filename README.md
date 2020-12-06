@@ -1,6 +1,4 @@
-### Hello Bruno here - aka [brnohs][website] 👋
-
-[![Website](https://www.linkedin.com/in/bruno-schock-7b67356a/)](https://www.linkedin.com/in/bruno-schock-7b67356a/)
+### Hello Bruno here 👋
 
 ## Graduated in economics, working as a advanced data analyst, dreaming big
 
@@ -11,6 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="brnohs | LinkedIn" width="22px" src="https://www.linkedin.com/in/bruno-schock-7b67356a/" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/bruno-schock-7b67356a/" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
