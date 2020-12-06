@@ -5,7 +5,6 @@
 - 🔭 Searching for the game changer
 - 🌱 I’m currently learning many things
 - 🥅 2021 Goals: Be a more assiduous contributor
-- ⚡ Rap, trap, rock and everything else
 
 ### Connect with me:
 
