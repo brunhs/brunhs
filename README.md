@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello Bruno here - aka [brnohs][website] 👋
 
-<!--
-**brunhs/brunhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://www.linkedin.com/in/bruno-schock-7b67356a/)](https://www.linkedin.com/in/bruno-schock-7b67356a/)
 
-Here are some ideas to get you started:
+## Graduated in economics, working as a advanced data analyst, dreaming big
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Searching for the game changer
+- 🌱 I’m currently learning many things
+- 🥅 2021 Goals: Be a more assiduous contributor
+- ⚡ Rap, trap, rock and everything else
+
+### Connect with me:
+
+[<img align="left" alt="brnohs | LinkedIn" width="22px" src="https://www.linkedin.com/in/bruno-schock-7b67356a/" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
