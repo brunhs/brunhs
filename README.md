@@ -1,10 +1,12 @@
 ### Hello brun here 👋
 
-## Graduated in economics, working as a advanced data analyst, dreaming big
+## Graduated in economics, working as a decision scientist, dreaming big
 
 - 🔭 Searching for the game changer
 - 🌱 I’m currently learning many things
 - 🥅 2021 Goals: Be a more assiduous contributor
+
+[![Spotify](https://spotify-now-playing-readme-six.vercel.app/api/spotify)]
 
 ### Connect with me:
 
