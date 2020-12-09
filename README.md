@@ -13,6 +13,15 @@
 [linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
 
 ---
+<details>
+  <summary>:trident: GitHub Stats</summary>
+
 [![Brun's github stats](https://github-readme-stats.vercel.app/api?username=brunhs&count_private=true&show_icons=true)](https://github.com/brunhs/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:trident: Top  languages</summary>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html)](https://github.com/brunhs/github-readme-stats)
+</details>
