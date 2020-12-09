@@ -13,4 +13,4 @@
 [linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
 
 ---
-[![Brno's github stats](https://github-readme-stats.vercel.app/api?username=brnohs)](https://github.com/brnohs/github-readme-stats)
+[![Brun's github stats](https://github-readme-stats.vercel.app/api?username=brunhs)](https://github.com/brunhs/github-readme-stats)
