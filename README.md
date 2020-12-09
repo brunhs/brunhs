@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning many things
 - 🥅 2021 Goals: Be a more assiduous contributor
 
-[![Spotify](https://spotify-now-playing-readme-six.vercel.app/api/spotify)]
+[![Spotify](https://spotify-now-playing-readme-six.vercel.app/api/spotify)](https://open.spotify.com/user/22axgf6xuunjx2krsohpnm4fi)
 
 ### Connect with me:
 
