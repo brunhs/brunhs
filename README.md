@@ -20,8 +20,8 @@
 
 </details>
 
-<details>
-  <summary>:trident: Top  languages</summary>
 ---
+<details>
+  <summary>:trident: Top  Langs</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html)](https://github.com/brunhs/github-readme-stats)
 </details>
