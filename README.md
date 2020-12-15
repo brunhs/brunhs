@@ -34,6 +34,17 @@
 <br />
 <br />
 
+
+### Currently working at:
+
+<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />
+
+<br />
+<br />
+
+
+
+
 <details>
   <summary>:trident: GitHub Stats</summary>
 
