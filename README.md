@@ -37,7 +37,7 @@
 
 ### Currently working at:
 
-<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />
+[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
 
 <br />
 <br />
@@ -57,3 +57,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html)](https://github.com/brunhs/github-readme-stats)
 </details>
+
+
+[work]: https://www.ifood.com.br/
