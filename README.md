@@ -1,4 +1,4 @@
-### Hello brun here 👋
+### Hello brun here &nbsp;&nbsp;<sup>👾 &#12299;
 
 ## Graduated in economics, working as a decision scientist, dreaming big
 
