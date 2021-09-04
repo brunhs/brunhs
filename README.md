@@ -20,9 +20,9 @@
 ![rstudio](https://img.shields.io/static/v1?logo=rstudio&message=@:&color=555&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=vscode&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
+**Senior Advanced analytics** &#12299;_focused in e-commerce problems_
 <br/>
-**Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
+**Freelancer** &#12299;
 
 
 ### Connect with me:
