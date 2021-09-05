@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/static/v1?logo=rstudio&label=&message=rstudio&color=111&logoColor=AAA&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab&color=111&logoColor=AAA&style=flat-square" />
+<img src="https://img.shields.io/static/v1?logo=vscode&label=&message=vscode&color=111&logoColor=AAA&style=flat-square" />
   
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=@&color=555&style=flat-square" />
