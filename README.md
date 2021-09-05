@@ -32,11 +32,15 @@
 <img src="https://img.shields.io/static/v1?logo=databricks&label=&message=databricks&color=111&logoColor=AAA&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square" />
-<img src="https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square" />    
-
+<img src="https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square" />
+<img src="https://img.shields.io/static/v1?logo=rstudio&label=&message=rstudio&color=111&logoColor=AAA&style=flat-square" />
+<img src="https://img.shields.io/static/v1?logo=jupyter&label=&message=jupyter&color=111&logoColor=AAA&style=flat-square" />
+<img src="https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab&color=111&logoColor=AAA&style=flat-square" />
+  
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=@&color=555&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=iFood&logoColor=ffffff&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Freelancer&logoColor=ffffff&style=flat-square" />
   
 ## ☎️ Contact Me:
 <p align="center">
