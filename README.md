@@ -27,21 +27,21 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![rstudio](https://img.shields.io/static/v1?logo=rstudio&message=@:&color=555&style=flat-square)
+  
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=vscode&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Senior Advanced analytics** &#12299;_focused in e-commerce problems_
+**Senior Advanced analytics** &#12299;_data science for marketing_
+**Currently working at** &#12299; [<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />]
 <br/>
-**Freelancer** &#12299;
+**Freelancer** &#12299;__data science and analytics__
 
 
 <br />
 <br />
 
 
-### Currently working at:
-
-[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
+### Currently working at:[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
 
 <br />
 <br />
