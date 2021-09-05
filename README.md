@@ -43,14 +43,8 @@
   <a href="https://twitter.com/brunocodeson"><img align="center" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
   <a href="https://www.instagram.com/brunocodes.on/"><img align="center" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://tiktok.com/brunocodeson"><img align="center" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
-
   <a href="https://www.linkedin.com/in/bruno-schock/"><img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<p align="center">
-  <a href="mailto:brunhensch@gmail.com">
-    <img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-</p>
+  <a href="mailto:brunhensch@gmail.com"><img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
 <br/>
 <br/>
