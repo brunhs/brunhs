@@ -28,17 +28,10 @@
 <br/>
 **Freelancer** &#12299;__data science and analytics__
 
-#### Currently working at:[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
-
-<br />
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="brnohs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
-
+<br />
 <br />
 
 
