@@ -11,7 +11,7 @@
   
   
 
-### Languages and Tools:
+## 🛠️ Languages and Tools:
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
@@ -36,12 +36,7 @@
 **Freelancer** &#12299;__data science and analytics__
 
 
-
-
-<br />
-<br />
-
-
+## 🛠️ Also:
 
 <details>
   <summary>:brain: GitHub Stats</summary>
