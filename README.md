@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 
 
-### Economist, but I work with analytics engineering & data science stuff
+### Analytics engineering & Data science stuff
 ## 📚 About Me:
 
 - 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
@@ -57,6 +57,11 @@
 <a href="https://www.linkedin.com/in/bruno-schock/">
   <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<a href="mailto:brunhensch@gmail.com">
+  <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 <br/>
 <br/>
