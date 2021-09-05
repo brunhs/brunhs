@@ -1,6 +1,6 @@
 ## Hello brun here &nbsp;&nbsp;<sup>👾 &#12299;
 
-### Graduated in economics, analytics engineering~data science
+### Economist, but I work with analytics engineering & data science stuff
 ## 📚 About Me:
 
 - 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
