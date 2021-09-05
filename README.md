@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;
   
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
-![iFood](https://img.shields.io/static/v1?label=&message=iFood&color=255&logoColor=#FF0000&style=flat-square)
+![iFood](https://img.shields.io/static/v1?label=&message=iFood&logoColor=#FF0000&style=flat-square)
 
   
 ## 🛠️ Also:  
