@@ -1,14 +1,12 @@
 ## Hello brun here &nbsp;&nbsp;<sup>👾 &#12299;
 
 ### Graduated in economics, analytics engineering~data science
----
-
-
 ## 📚 About Me:
 
 - 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
 - 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
 - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
+
 
   
   
@@ -36,6 +34,7 @@
 **Senior Advanced analytics** &#12299;_data science for marketing_
 <br/>
 **Freelancer** &#12299;__data science and analytics__
+
 
 
 
