@@ -33,16 +33,9 @@
 
 **Senior Advanced analytics** &#12299;_data science for marketing_
 <br/>
-**Currently working at**:[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
-<br/>
 **Freelancer** &#12299;__data science and analytics__
 
-
-<br />
-<br />
-
-
-### Currently working at:[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
+#### Currently working at:[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
 
 <br />
 <br />
