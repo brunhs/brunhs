@@ -17,7 +17,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="center">
-  <img(https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square) />
+  <img src = "https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square" />
 <p>&nbsp;</p>
 
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
