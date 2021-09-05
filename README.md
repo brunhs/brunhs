@@ -38,22 +38,22 @@
 
 ## ☎️ Contact Me:
 
-<a href="https://twitter.com/moertel">
+<a href="https://twitter.com/brunocodeson">
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <a href="https://www.instagram.com/brunocodes.on/">
   <img align="left" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://tiktok.com/brunocodes.on">
-<img align="left" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://tiktok.com/brunocodeson">
+<img align="left" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/bruno-schock/">
   <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
   
 <details>
   <summary>:brain: GitHub Stats</summary>
