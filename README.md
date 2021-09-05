@@ -47,25 +47,25 @@
 
 <p align="center">
   <a href="https://www.instagram.com/brunocodes.on/">
-    <img align="left" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://tiktok.com/brunocodeson">
-  <img align="left" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
+  <img align="center" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-schock/">
-    <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:brunhensch@gmail.com">
-    <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 </p>
 
