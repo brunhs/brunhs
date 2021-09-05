@@ -1,4 +1,4 @@
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/title_banner.gif" />
+<img src="https://github.com/brunhs/brunhs/blob/main/Misc/title_banner.gif" />
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p>&nbsp;</p>
