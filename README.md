@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 
 <p align="center">
-### Analytics engineering & Data science stuff
+  <b>Analytics engineering & Data science stuff</b>
 <p>&nbsp;</p>
   
   
