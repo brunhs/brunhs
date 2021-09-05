@@ -52,14 +52,14 @@
 <details>
   <summary>📈 GitHub Stats</summary>
 
-[![Brun's github stats](https://github-readme-stats.vercel.app/api?username=brunhs&count_private=true&show_icons=true)](https://github.com/brunhs/github-readme-stats)
+  
+  
+
+<!-- [![Brun's github stats](https://github-readme-stats.vercel.app/api?username=brunhs&count_private=true&show_icons=true)](https://github.com/brunhs/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html)](https://github.com/brunhs/github-readme-stats)
 </details>
 
-<a href = "https://github.com/brunhs/github-readme-stats">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html/> < /a>
-</details>
 
   
 </details>
