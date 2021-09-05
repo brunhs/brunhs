@@ -27,9 +27,7 @@
 <img src="https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square" />
 <img src="https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square" />    
-< /p>
 
-<p align="center"
 <img src="https://img.shields.io/static/v1?label=&message=@&color=555&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=iFood&logoColor=ffffff&style=flat-square" />
 < /p>
