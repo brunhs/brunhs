@@ -1,15 +1,8 @@
 ## Hello brun here &nbsp;&nbsp;<sup>👾 &#12299;
 
 ### Graduated in economics, analytics engineering~data science
-----
+---
 
-### Connect with me:
-
-[<img align="left" alt="brnohs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
-
-<br />
 
 ### Languages and Tools:
 
@@ -40,6 +33,13 @@
 <br />
 <br />
 
+### Connect with me:
+
+[<img align="left" alt="brnohs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/bruno-schock-7b67356a/
+
+<br />
 
 
 
