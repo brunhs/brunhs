@@ -39,26 +39,27 @@
 <b>Freelancer</b> &#12299; <i>data science and analytics</i>
 
 ## ☎️ Contact Me:
+<p align="center">
+  <a href="https://twitter.com/brunocodeson">
+    <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
 
-<a href="https://twitter.com/brunocodeson">
-  <img align="center" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <a href="https://www.instagram.com/brunocodes.on/">
+    <img align="left" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 
-<a href="https://www.instagram.com/brunocodes.on/">
-  <img align="center" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <a href="https://tiktok.com/brunocodeson">
+  <img align="left" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
+  </a>
 
-<a href="https://tiktok.com/brunocodeson">
-<img align="center" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/bruno-schock/">
+    <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 
-<a href="https://www.linkedin.com/in/bruno-schock/">
-  <img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="mailto:brunhensch@gmail.com">
-  <img align="center" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  <a href="mailto:brunhensch@gmail.com">
+    <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</p>
 
 
 <br/>
