@@ -34,9 +34,9 @@
 ## 🔥 Also:  
 
 <p align="center">
-**Senior Advanced analytics** &#12299;_data science for marketing_
+<b>Senior Advanced analytics</b> &#12299; <i>data science for marketing</i>
 <br/>
-**Freelancer** &#12299;_data science and analytics_
+<b>Freelancer</b> &#12299; <i>data science and analytics</i>
 
 ## ☎️ Contact Me:
 
