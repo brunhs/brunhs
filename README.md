@@ -1,6 +1,6 @@
 ## Hello brun here &nbsp;&nbsp;<sup>👾 &#12299;
 
-### Graduated in economics, working as a decision scientist, always go ultra-mega-blend
+### Graduated in economics, analytics engineering~data science
 ----
 
 ### Connect with me:
@@ -33,7 +33,7 @@
 
 **Senior Advanced analytics** &#12299;_data science for marketing_
 <br/>
-**Currently working at**;[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
+**Currently working at**:[<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />][work]
 <br/>
 **Freelancer** &#12299;__data science and analytics__
 
