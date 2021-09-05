@@ -4,6 +4,15 @@
 ---
 
 
+## 📚 About Me:
+
+- 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
+- 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
+- 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
+
+  
+  
+
 ### Languages and Tools:
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
@@ -29,7 +38,6 @@
 **Freelancer** &#12299;__data science and analytics__
 
 
-### Connect with me:
 
 <br />
 <br />
