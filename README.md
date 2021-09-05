@@ -3,7 +3,6 @@
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p>&nbsp;</p>
 
-## Hello brun here &nbsp;&nbsp;<sup>👾 &#12299;
 
 ### Economist, but I work with analytics engineering & data science stuff
 ## 📚 About Me:
@@ -35,7 +34,7 @@
 ![iFood](https://img.shields.io/static/v1?label=&message=iFood&logoColor=ffffff&style=flat-square)
 
   
-## 🛠️ Also:  
+## 🔥 Also:  
   
 **Senior Advanced analytics** &#12299;_data science for marketing_
 <br/>
