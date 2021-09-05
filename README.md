@@ -54,6 +54,7 @@
   <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br/>
   
 <details>
   <summary>:brain: GitHub Stats</summary>
