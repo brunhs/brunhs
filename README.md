@@ -12,7 +12,14 @@
 - 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
 - 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
 
-  
+
+## 🔥 Also:  
+<p align="left">
+<b>Senior Advanced analytics</b> &#12299; <i>data science for marketing</i>
+<br/>
+<b>Freelancer</b> &#12299; <i>data science and analytics</i>
+
+
   
 
 ## 🛠️ Languages and Tools:
@@ -31,13 +38,6 @@
 <img src="https://img.shields.io/static/v1?label=&message=@&color=555&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=iFood&logoColor=ffffff&style=flat-square" />
   
-## 🔥 Also:  
-
-<p align="left">
-<b>Senior Advanced analytics</b> &#12299; <i>data science for marketing</i>
-<br/>
-<b>Freelancer</b> &#12299; <i>data science and analytics</i>
-
 ## ☎️ Contact Me:
 <p align="center">
   <a href="https://twitter.com/brunocodeson"><img align="center" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
