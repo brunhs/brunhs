@@ -19,11 +19,11 @@
 &nbsp;&nbsp;&nbsp;
   
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-![databricks](https://img.shields.io/static/v1?logo=databricks&label=&message=spark&color=111&logoColor=AAA&style=flat-square)
+![databricks](https://img.shields.io/static/v1?logo=databricks&label=&message=databricks&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
   
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
