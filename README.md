@@ -27,14 +27,14 @@
 &nbsp;&nbsp;&nbsp;
   
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
-![iFood](https://img.shields.io/static/v1?label=&message=iFood&color=111&logoColor=FF0000&style=flat-square)
+![iFood](https://img.shields.io/static/v1?label=&message=iFood&color=255&logoColor=#FF0000&style=flat-square)
 
   
 ## 🛠️ Also:  
   
 **Senior Advanced analytics** &#12299;_data science for marketing_
 <br/>
-**Freelancer** &#12299;__data science and analytics__
+**Freelancer** &#12299;_data science and analytics_
 
 ## ☎️ Contact Me:
 
@@ -44,6 +44,11 @@
 <a href="https://www.instagram.com/brunocodes.on/">
   <img align="left" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="https://tiktok.com/brunocodes.on">
+<img align="left" alt="Bruno's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/bruno-schock/">
   <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
