@@ -5,8 +5,6 @@
 
 - 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
 - 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
-- 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
-
 
   
   
@@ -29,15 +27,29 @@
 &nbsp;&nbsp;&nbsp;
   
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=vscode&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
+![iFood](https://img.shields.io/static/v1?label=&message=iFood&color=111&logoColor=FF0000&style=flat-square)
 
+  
+## 🛠️ Also:  
+  
 **Senior Advanced analytics** &#12299;_data science for marketing_
 <br/>
 **Freelancer** &#12299;__data science and analytics__
 
+## ☎️ Contact Me:
 
-## 🛠️ Also:
+<a href="https://twitter.com/moertel">
+  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/brunocodes.on/">
+  <img align="left" alt="Bruno's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bruno-schock/">
+  <img align="left" alt="Bruno's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+  
 <details>
   <summary>:brain: GitHub Stats</summary>
 
