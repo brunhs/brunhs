@@ -32,6 +32,7 @@
 ![vscode](https://img.shields.io/static/v1?logo=vscode&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
 **Senior Advanced analytics** &#12299;_data science for marketing_
+<br/>
 **Currently working at** &#12299; [<img align="left" alt="iFood" width="26px" src="https://avatars2.githubusercontent.com/u/26223435?s=200&v=4" />]
 <br/>
 **Freelancer** &#12299;__data science and analytics__
