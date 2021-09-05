@@ -52,14 +52,15 @@
 <details>
   <summary>📈 GitHub Stats</summary>
 
-  <a href = "https://github.com/brunhs/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html" />< /a>
+  <a href = "https://github.com/brunhs/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html" />< /a>  <a href = "https://github.com/brunhs/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=brunhs&count_private=true&show_icons=true" />< /a>
+
 
   
 
 <!-- [![Brun's github stats](https://github-readme-stats.vercel.app/api?username=brunhs&count_private=true&show_icons=true)](https://github.com/brunhs/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html)](https://github.com/brunhs/github-readme-stats)
-</details>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunhs&layout=compact&hide=html)](https://github.com/brunhs/github-readme-stats)
+</details> -->
 
 
   
