@@ -41,7 +41,7 @@
 ## ☎️ Contact Me:
 <p align="center">
   <a href="https://twitter.com/brunocodeson">
-    <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="center" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 </p>
 
