@@ -5,8 +5,10 @@
 
 <p align="center">
 ### Analytics engineering & Data science stuff
+<p>&nbsp;</p>
+  
+  
 ## 📚 About Me:
-
 - 👨‍💻 I'm a data scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
 - 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
 
