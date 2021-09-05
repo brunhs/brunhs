@@ -18,7 +18,6 @@
 ## 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square" /> <img src="https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=" /> <img src="https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square" /> <img src="https://img.shields.io/static/v1?logo=R&label=&message=R&color=111&logoColor=AAA&style=flat-square" /> <img src="https://img.shields.io/static/v1?label=&message=SQL&color=111&logoColor=AAA&style=flat-square" />
-< /p>
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square" />
