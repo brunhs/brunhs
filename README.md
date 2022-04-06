@@ -4,18 +4,21 @@
 <p>&nbsp;</p>
 
 <p align="center">
-  <b>Analytics engineering & Data science stuff</b>
+  <b>Analytics engineering & Data science</b>
 <p>&nbsp;</p>
   
   
 ## 📚 About Me:
-- 👨‍💻 I'm a Advanced data analyst (data scientist) at <a href = "https://www.ifood.com.br/"> iFood</a>.
+- 👨‍💻 Currently Data Scientist (Machine Learning Engineer) at <a href = "https://www.ifood.com.br/"> iFood</a>.
+- 👨‍💻 2 years as a Advanced Data Analyst (Data Scientist) at <a href = "https://www.ifood.com.br/"> iFood</a>.
 - 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
 
 
 ## 🔥 Also:  
 <p align="left">
-<b>Senior Advanced analytics</b> &#12299; <i>data science for marketing</i>
+<b>Senior Data Scientist </b> &#12299; <i>data science for recommendation</i>
+<br/>
+<b>Senior Advanced analytics</b> &#12299; <i>data science for marketing & comercial</i>
 <br/>
 <b>Freelancer</b> &#12299; <i>data science and analytics</i>
 
