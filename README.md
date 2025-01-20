@@ -10,7 +10,7 @@
   
 ## 📚 About Me:
 - 👨‍💻 Currently Machine Learning Engineer at <a href = "https://www.ifood.com.br/"> iFood</a>.
-- 👨‍💻 2 years as a Data Specialist (Data Scientist) at <a href = "https://www.ifood.com.br/"> iFood</a>.
+- 👨‍💻 7 years as a Data Data Scientist at <a href = "https://www.ifood.com.br/"> iFood</a>.
 - 👨‍💻 Msc. in Economics at <a href = "https://ufsc.br/"> UFSC</a>; MBA. in Data science 'n' analytics at <a href = "https://mbauspesalq.com/#sobre"> USP </a>.
 
 
